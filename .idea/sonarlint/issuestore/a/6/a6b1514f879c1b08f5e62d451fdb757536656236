@@ -1,0 +1,8 @@
+
+ƒ
+java:S1854	";Remove this useless assignment to local variable "scanner".(ω ƒ‘όÿÿÿÿ8ψΟιέ‚2J$06d61608-3f72-4854-99ab-193a13e4a3e7
+t
+java:S1481	",Remove this unused "scanner" local variable.(ω ƒ‘όÿÿÿÿ8ϊΟιέ‚2J$fcf1eedc-a739-4640-9c85-cb5fa1d8ae23
+l	java:S106
+"+Replace this use of System.out by a logger.(―αh8±Τ‘³‚2J$4418a43c-faae-4bb9-b50f-adf8f99091b8
+}	java:S125"<This block of commented-out lines of code should be removed.(σ Έ8όΟιέ‚2J$b1c7c05e-b651-4f3e-a2a4-2f6529e32f35
